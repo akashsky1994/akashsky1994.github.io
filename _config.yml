@@ -1,20 +1,18 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Akash Mishra
+email: akash.mishra13@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, NodeJS, Golang, Python, Machine Learning, Deep Learning, Algorithms, MySQL, MongoDB, AWS"
+skills: "Software Engineer (Backend Development)"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://www.linkedin.com/in/akash-mishra1994/
+  - title: github
+    url: https://github.com/AkashSky1994
     
 # Google webmaster tools
 google_verify:
