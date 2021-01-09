@@ -59,8 +59,14 @@
                        <a href="#about">About Me</a>
                    </li>
                    <li class="page-scroll">
+                        <a href="#experience">Experience</a>
+                    </li>
+                   <li class="page-scroll">
                        <a href="#interests">Interests</a>
                    </li>
+                   <li class="page-scroll">
+                        <a href="#certi">Courses & Certifications</a>
+                    </li>
                    <li class="page-scroll">
                        <a href="#contact">Contact</a>
                    </li>
@@ -75,7 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="profile-img" src="img/profile.png" alt="{{ site.name }}">
+                    <img class="profile-img" src="img/profile.jpg" alt="{{ site.name }}">
                     <div class="intro-text">
                         <span class="name">{{ site.name }}</span>
                         <hr>
@@ -87,7 +93,9 @@
     </header>
 
     {% include about_me.html %}
+    {% include experience.html %}
     {% include interests.html %}
+    {% include certi.html %}
     {% include contact_form.html %}
 
     <!-- Footer -->
