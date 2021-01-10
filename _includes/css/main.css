@@ -41,7 +41,7 @@ hr {
     padding: 0;
     max-width: 250px;
     border: 0;
-    border-top: solid 4px;
+    border-top: lightgray solid 4px;
 }
 hr.star-light,
 hr.star-primary {
