@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Computer Science Engineer and currently New York University Masters Student with research concentration around training Graph neural network for multimodal data.
+I am Computer Science Engineer and currently New York University Masters Student with research concentration around deep neural network for multimodal data.
 I have an experience of around 4 years in software design and development at <a href="https://www.thras.io">Thrasio</a>,<a href="https://www.nyu.edu">NYU</a>, <a href="https://www.lbb.in">LBB</a>.
-    🔭 I’m currently working on Exploring multimodal properties in self-supervised graph neural network.
+
+-  🔭 I’m currently working on Exploring multimodal properties in self-supervised graph neural network.
 
 Highlights
 ------
