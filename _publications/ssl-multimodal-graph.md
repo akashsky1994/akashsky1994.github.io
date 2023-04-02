@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised Multimodal Graph Neural Network"
-collection: publications
-permalink: /publication/ssl-multimodal-graph
+collection: projects
+permalink: /projects/ssl-multimodal-graph
 excerpt: 'Self-supervised Multimodal Graph Neural Network'
 paperurl: 'http://academicpages.github.io/files/ssl-multimodal.pdf'
 ---

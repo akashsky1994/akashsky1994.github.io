@@ -1,7 +1,7 @@
 ---
 title: "Depth Estimation using Self-Supervised Learning from Monocular Images"
-collection: publications
-permalink: /publication/depth-estimation
+collection: projects
+permalink: /projects/depth-estimation
 excerpt: 'Depth Estimation using Self-Supervised Learning from Monocular Images'
 paperurl: 'http://akashsky1994.github.io/files/ssl-monocular-depth-estimation.pdf'
 ---
