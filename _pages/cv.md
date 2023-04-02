@@ -48,9 +48,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Experience
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.experience %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
