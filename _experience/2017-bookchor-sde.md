@@ -3,8 +3,8 @@ title: "Bookchor - Software Engineer"
 collection: experience
 type: "Software Engineer"
 permalink: /experience/2017-bookchor-sde
-# venue: "University 1, Department"
-# date: " July 2017 - August 2019"
+venue: "India"
+meta_info: " July 2017 - August 2019"
 location: "India"
 ---
 
