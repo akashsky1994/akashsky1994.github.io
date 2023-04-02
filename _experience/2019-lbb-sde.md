@@ -4,7 +4,7 @@ collection: experience
 type: "Backend Engineer"
 permalink: /experience/2019-lbb-sde
 # venue: "University 1, Department"
-date: "September 2019 - July 2021"
+# date: "September 2019 - July 2021"
 location: "Delhi, India"
 ---
 - Developed search service leveraging Elasticsearch and NLP techniques to provide support for conversational language improving organic user engagement by 60% over the next 6 months.
