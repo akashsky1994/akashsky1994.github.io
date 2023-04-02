@@ -1,7 +1,7 @@
 ---
 title: "Recommender System Using Spark’s ALS Model and LightFM Model"
 collection: projects
-permalink: /projects/recommender-system
+# permalink: /projects/recommender-system
 excerpt: 'Recommender System Using Spark’s ALS Model and LightFM Model'
 paperurl: 'https://github.com/nyu-big-data/final-project-group_33'
 ---

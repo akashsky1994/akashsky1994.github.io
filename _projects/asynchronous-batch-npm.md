@@ -1,10 +1,11 @@
 ---
 title: "Asynchronous Batch Operations NPM Package"
 collection: projects
-permalink: /project/asynchronous-batch-npm
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# permalink: /project/asynchronous-batch-npm
+excerpt: 'Authored an Open Sourced NPM Library for asynchronous batch operations which provided a 17% improvement in the execution
+time and better handling of error catching and response compared to the native Promise.all Method'
+paperurl: 'https://www.npmjs.com/package/async-plus'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Authored an Open Sourced NPM Library for asynchronous batch operations which provided a 17% improvement in the execution
+time and better handling of error catching and response compared to the native Promise.all Method.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
