@@ -4,7 +4,7 @@ collection: experience
 type: "Internship"
 permalink: /experience/2022-thrasio-sde-intern
 # venue:  June 2022 - August 2022
-date: June 2022 - August 2022
+date: "June 2022 - August 2022"
 location: "New York, USA"
 ---
 
