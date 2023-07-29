@@ -8,7 +8,7 @@ excerpt: '- Inserting Stealthy Syntactic Backdoors which are not perceivable by 
 
 - Resulted in increased ASR (Attack success rate) to 96.73% for given stealthy syntactical attacks 
 '
-paperurl: 'http://akashsky1994.github.io/files/stealthy-backdoor-attacks.pdf'
+paperurl: 'https://akashsky1994.github.io/files/stealthy-backdoor-attacks.pdf'
 link: 'https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack'
 ---
 - Inserting Stealthy Syntactic Backdoors which are not perceivable by the Humans during Input checks and audits
@@ -17,4 +17,4 @@ link: 'https://github.com/nyu-ce-projects/stealthy-syntactical-backdoor-attack'
 
 - Resulted in increased ASR (Attack success rate) to 96.73% for given stealthy syntactical attacks 
 
-[Download paper here](http://akashsky1994.github.io/files/stealthy-backdoor-attacks.pdf)
+[Download paper here](https://akashsky1994.github.io/files/stealthy-backdoor-attacks.pdf)
